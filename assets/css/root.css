@@ -1,0 +1,19 @@
+:root {
+  --fs-18: 18px;
+  --fs-56: 56px;
+
+  --color-white: #ffff;
+  --color-red: #ff0000;
+}
+.fs-18 {
+  font-size: var(--fs-18);
+}
+.fs-56 {
+  font-size: var(--fs-56);
+}
+.color-white {
+  color: var(--color-white);
+}
+.color-red {
+  color: var(--color-red);
+}
